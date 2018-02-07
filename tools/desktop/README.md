@@ -10,7 +10,7 @@
 ## 外界显示器
 * 词典
 * kaleidoscope
+* 查找资料用chrome
 * 电子书
 * 调试代码用chrome
-* 查找资料用chrome
 * 其他
