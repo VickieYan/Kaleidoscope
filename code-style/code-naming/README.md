@@ -3,5 +3,9 @@
 
 「 如若奇葩，纯属巧合。 」
 
-# variable name
+## variable name
 isDone
+
+## function name
+onClickIncrementButton
+onClickDecrementButton
