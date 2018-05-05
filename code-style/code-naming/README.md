@@ -5,9 +5,16 @@
 
 ## variable name
 isDone // Boolean
+
 octNum // 八进制数字
+
 hexNum // 十六进制数字
+
 binNum // 二进制数字
+
+fibonacci // 斐波那契数组
+
+factorial // 阶乘
 
 ## function name
 
